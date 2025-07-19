@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Equipes Pro",
+  "description": "Um sistema de gestão de equipes com controle de escalas, folgas, férias, tarefas e produtividade dos colaboradores, construído com React e Tailwind CSS.",
+  "requestFramePermissions": []
+}
